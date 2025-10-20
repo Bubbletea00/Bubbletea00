@@ -1,5 +1,4 @@
 Hi, my name is Noah! 
-I am currently learning cpp and some webdev!
 
 
 <!---
